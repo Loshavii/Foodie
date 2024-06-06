@@ -382,7 +382,7 @@
             box-sizing: border-box;
             margin:0;
             text-transform: capitalize;
-            background-attachment: fixed;
+            background-attachment:fixed;
         }
         .contr p {
             margin: 0;
