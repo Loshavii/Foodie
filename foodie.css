@@ -205,7 +205,7 @@
 .cont button:hover {
     background-color: var(--secondary-color);
     transform: scale(1.05);
-    box-shadow: 0 0 25px;
+    box-shadow: 0 0 25px var(--black-color);
 }
 
 
@@ -271,7 +271,7 @@
 .ab button:hover {
     background-color: var(--secondary-color);
     transform: scale(1.05);
-    box-shadow: 0 0 25px;
+    box-shadow: 0 0 25px var(--black-color);
 }
 
 
@@ -312,7 +312,7 @@
 .card:hover {
 
     transform: scale(1.05);
-    box-shadow: 0 0 25px;
+    box-shadow: 0 0 25px var(--black-color);
 }
 
 .card img {
@@ -333,7 +333,7 @@
     color: var(--text-color);
 }
 
-.avai {
+.available {
     font-size: 1.2em;
     margin: 10px 0;
     text-align: left;
@@ -341,7 +341,7 @@
     font-family: var(--secondary-font);
 }
 
-.unavai {
+.unavailable {
     font-size: 1em;
     margin: 10px 0;
     color: var(--text-gray);
@@ -402,7 +402,7 @@
 .butto:hover {
     background-color: var(--secondary-color);
     transform: scale(1.05);
-    box-shadow: 0 0 25px;
+    box-shadow: 0 0 25px var(--black-color);
 }
 
 .conte .parag {
@@ -417,7 +417,7 @@
 
 .contr {
 
-    height: 100px;
+    height: 120px;
     background-image: url('bg-3.jpg');
     background-size: cover;
     display: flex;
@@ -459,7 +459,7 @@
 button:hover {
     background-color: var(--secondary-color);
     transform: scale(1.05);
-    box-shadow: 0 0 25px;
+    box-shadow: 0 0 25px ;
 }
 
 
@@ -513,7 +513,7 @@ button:hover {
 .subscribe button:hover {
     background-color: var(--secondary-color);
     transform: scale(1.05);
-    box-shadow: 0 0 25px;
+    box-shadow: 0 0 25px var(--black-color);
 }
 
 .subscribe-form {
